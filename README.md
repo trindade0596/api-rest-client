@@ -4,7 +4,7 @@
 - The application is working only in memory, the data entered will be deleted if the system restarts, only the ADMIN user can DELETE data from the api, tests are incomplete.
 
 # url
- Get, Post: localhost:8080/clientes
+ Get, Post: localhost:8080/clientes,   
  Get by id, Put, Delete: localhost:8080/clientes/{id}
 
 # Authenticated users:
