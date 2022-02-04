@@ -5,7 +5,7 @@
 
 # Authenticated users:
 
- username: admin, password: java
+ username: admin, password: java, 
  username: user, pasword: java
 
 # example to post data:
