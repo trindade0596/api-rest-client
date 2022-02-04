@@ -17,8 +17,8 @@
 }
 
 # Version:
-  Java 1.8
-  Maven 4.0.0
+  Java 1.8, 
+  Maven 4.0.0, 
   Spring Boot 2.5.9
 
 
