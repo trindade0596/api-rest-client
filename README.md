@@ -1,9 +1,12 @@
 # api-rest-client with authentication
 
-# note - The application is working only in memory, the data entered will be deleted if the system restarts, only the ADMIN user can delete the api, tests are incomplete.
+# note
+- The application is working only in memory, the data entered will be deleted if the system restarts, only the ADMIN user can DELETE data from the api, tests are incomplete.
 
-# username: admin, password: java
-# username: user, pasword: java
+# Authenticated users:
+
+ username: admin, password: java
+ username: user, pasword: java
 
 # example to post data:
 
